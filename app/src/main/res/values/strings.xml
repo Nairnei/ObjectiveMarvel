@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Objective Marvel</string>
+    <string name="ops">Ops, algo estranho aconteceu</string>
+    <string name="dataFromCache">Dados do cache</string>
+    <string name="title">Pair Programming mock</string>
+</resources>
